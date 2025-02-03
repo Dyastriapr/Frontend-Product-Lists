@@ -1,0 +1,13 @@
+[{
+    "id" : 1 ,
+    "nama" : "Sabun",
+    "harga" : 10000 ,
+    "desc" : "sabun terbaik sepanjang masa"
+},
+
+{
+    "id" : 2 ,
+    "nama" : "Sikat gigi",
+    "harga" : 10000 ,
+    "desc" : "sikat gigi keren"
+}]
